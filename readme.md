@@ -4,7 +4,7 @@ Currently, this repository holds a few utilities for working with Azure Databric
 
 ## Resources
 
-Generally resources in this repository are jupyter notebooks that can be imported to a databricks cluster workspace. Each notebook's first cell provides information on what the cell does.
+Generally resources in this repository are jupyter notebooks that can be imported to a databricks cluster workspace. Each notebook's first cell provides information on what the notebook does.
 
 - `rstudio-init-notebook.ipynb`: a notebook that generates an init script to install rstudio and potentially R packages of your choice
 - `check-init-logs.ipynb`: a notebook that allows you to view logs from init processes.
